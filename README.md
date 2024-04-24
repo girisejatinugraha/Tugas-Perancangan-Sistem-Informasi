@@ -1,2 +1,3 @@
-# Tugas-Perancangan-Sistem-Informasi
-Tugas
+# TUGAS MEMBUAT JURNAL 
+
+- MATAKULIAH: PERANCANGAN SISTEM INFORMASI
