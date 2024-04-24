@@ -3,8 +3,8 @@
 - MATA KULIAH: PERANCANGAN SISTEM INFORMASI
 - DOSEN PENGAMPU: MUHAMMAD SYUKRI, S.T, M.TI
 
-### JUDUL:
+### JUDUL
 "Pengembangan Sistem Informasi Manajemen Inventaris untuk Optimalisasi Stok dan Pelayanan (Studi Kasus: Toko Buku Gramedia)"
 
 ### KELOMPOK 3
-1. Dian
+- Dian
