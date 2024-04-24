@@ -3,6 +3,8 @@
 - MATA KULIAH: PERANCANGAN SISTEM INFORMASI
 - DOSEN PENGAMPU: MUHAMMAD SYUKRI, S.T, M.TI
 - KELAS: I2022
+- PRODI: IFSI-S1
+- PERGURUAN TINGGI & UNIVERSITAS: STMIK MARDIRA INDONESIA
 
 ### JUDUL
 "Pengembangan Sistem Informasi Manajemen Inventaris untuk Optimalisasi Stok dan Pelayanan (Studi Kasus: Toko Buku Gramedia)"
