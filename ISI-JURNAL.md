@@ -8,4 +8,4 @@ Toko Buku Gramedia, didirikan pada tahun 1970, telah berkembang menjadi salah sa
 Kata kunci: Toko Buku Gramedia, Sistem Informasi Manajemen Inventaris, Perancangan Sistem, Efisiensi Stok, Layanan Pelanggan, E-commerce.
 
 ## _ABSTRACT_
-> Bahasa Inggrisnya
+_Bahasa Inggrisnya_
