@@ -1,16 +1,3 @@
 ---
-
-<div style="text-align:center;">
-
 # **PENGEMBANGAN SISTEM INFORMASI MANAJEMEN INVENTARIS UNTUK OPTIMALISASI STOK DAN PELAYANAN (STUDI KASUS: TOKO BUKU GRAMEDIA)**
-
-</div>
-
------------
-
-haha
-
-
-
-
-
+---
