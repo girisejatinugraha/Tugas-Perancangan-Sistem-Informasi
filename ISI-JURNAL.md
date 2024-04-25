@@ -1,4 +1,4 @@
 <p align="center">
-  <strong>Ini adalah teks tebal di tengah.</strong>
+  <strong>PENGEMBANGAN SISTEM INFORMASI MANAJEMEN INVENTARIS UNTUK OPTIMALISASI STOK DAN PELAYANAN (STUDI KASUS: TOKO BUKU GRAMEDIA)</strong>
 </p>
 
