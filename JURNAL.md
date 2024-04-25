@@ -1,1 +1,0 @@
-# ISI JURNAL DISINI YA!!
