@@ -34,16 +34,28 @@ https://journals.ums.ac.id/index.php/emitor/article/view/13418
 Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer, 2548-964X.
 https://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/8678
 
-[5] Agus Dian Herianto, Ketut Widya Kayohana, dan La Ode Abdul Wahid. (2023). Pengembangan Sistem Informasi Manajemen Inventory Barang Pada Distro ARJ88 Dengan Metode Pengembangan Sistem Waterfall.
+[5] Hendra, Awan, Albert Suwandhi, Jati Putra, dan Sugianto Sugianto. (2021). Perancangan Sistem Informasi Inventaris Barang Pada PT. Digtara Berbasis Web.
+Jurnal Ilmiah CORE IT, 2548-3528.
+https://www.ijcoreit.org/index.php/coreit/article/view/288
+
+[6] Melda Agnes Manuhutu. (2022). Perancangan Sistem Informasi Inventaris Barang Pada Hotel City View Sorong.
+Jurnal Electro Luceat (JEC), 2597-4467.
+https://www.poltekstpaul.ac.id/jurnal/index.php/jelekn/article/view/521
+
+[7] Agus Dian Herianto, Ketut Widya Kayohana, dan La Ode Abdul Wahid. (2023). Pengembangan Sistem Informasi Manajemen Inventory Barang Pada Distro ARJ88 Dengan Metode Pengembangan Sistem Waterfall.
 Journal of Millenial Informatics, xxxx-xxxx.
 https://journal.mudaberkarya.id/index.php/JoMI/article/view/45
 
-[6] Fahrul Razi. (2023). Sistem Informasi Inventory Penjualan Barang (Studi Kasus : Toko Aru Raya).
+[8] Fahrul Razi. (2023). Sistem Informasi Inventory Penjualan Barang (Studi Kasus : Toko Aru Raya).
 Jurnal Sistem Informasi, 2797-8516.
 https://www.ojs.itb-ad.ac.id/index.php/JUSIN/article/view/2073
 
-[7] Maulana Afdhan Akbar. (2023). Perancangan Sistem Informasi Inventory Stok Barang Gudang pada Toko Percetakan UD. Eka Taruna.
+[9] Maulana Afdhan Akbar. (2023). Perancangan Sistem Informasi Inventory Stok Barang Gudang pada Toko Percetakan UD. Eka Taruna.
 Seminar Nasional Teknologi Informasi dan Komunikasi, 2685-5615.
 http://prosiding.unipma.ac.id/index.php/SENATIK/article/view/4418 
+
+[10] Eva Rosanti, dan Agus Bahtiar. (2023). Aplikasi Pengelolaan Inventory Stok Barang Berbasis Web Pada Toko Fathaniers.
+Jurnal Mahasiswa Teknik Informatika S1, 2598-828X.
+https://ejournal.itn.ac.id/index.php/jati/article/view/6443
 
 ---
