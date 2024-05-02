@@ -42,7 +42,12 @@ Penelitian ini menggunakan metode kuantitatif dimana pada penelitian ini digunak
 
 Software Development Life Cycle (SDLC) adalah kerangka kerja yang penting dalam pengembangan sistem informasi, termasuk di perusahaan seperti Gramedia. SDLC membantu dalam merencanakan, mengembangkan, merancang, mengimplementasikan, menganalisis, dan memelihara unit sistem informasi dengan efektif. Dalam konteks Gramedia, SDLC dapat dimulai dengan identifikasi kebutuhan bisnis dan pengguna, yang kemudian diikuti oleh perencanaan strategis untuk memenuhi kebutuhan tersebut. Tahap selanjutnya meliputi desain sistem yang melibatkan pemilihan teknologi dan arsitektur yang sesuai, serta pemodelan menggunakan UML untuk memvisualisasikan dan mendokumentasikan desain sistem.
 
+![agile](https://github.com/girisejatinugraha/Tugas-Perancangan-Sistem-Informasi/assets/136765265/9af046fc-3ad4-472d-8da1-ce1e0a9f2717)
+
+
 Dalam praktiknya, Gramedia mungkin menggunakan pendekatan Agile untuk pengembangan sistem informasi, yang memungkinkan adaptasi cepat terhadap perubahan dan iterasi yang lebih sering. Pendekatan ini juga melibatkan kolaborasi yang erat antara pengembang, analis, dan pengguna akhir untuk memastikan bahwa produk akhir memenuhi ekspektasi dan dapat berkembang seiring waktu. Dengan mengadopsi SDLC yang efektif, Gramedia dapat memastikan bahwa sistem informasi yang dikembangkan tidak hanya mendukung operasi bisnis saat ini tetapi juga fleksibel untuk beradaptasi dengan perubahan kebutuhan di masa depan.
+
+![metode](https://github.com/girisejatinugraha/Tugas-Perancangan-Sistem-Informasi/assets/136765265/55be9e99-bf26-4dfe-a65f-937e4c0fc8d4)
 
 1.	 Pengumpulan data
 Kerangka kerja ini dimulai dari pengumpulan data, yang terdiri dari penelitian perpustakaan (Library Research)
