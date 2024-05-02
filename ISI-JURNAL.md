@@ -1,5 +1,9 @@
 ---
+
 # PENGEMBANGAN SISTEM INFORMASI MANAJEMEN INVENTARIS UNTUK OPTIMALISASI STOK DAN PELAYANAN (STUDI KASUS: TOKO BUKU GRAMEDIA)
+
+---
+
 ---
 
 ## ABSTRAK
@@ -11,6 +15,59 @@ _Toko Buku Gramedia_, didirikan pada tahun 1970, telah berkembang menjadi salah 
 _Gramedia Bookstore, founded in 1970, has grown to become one of the largest book retailers in Indonesia under the ownership of Kompas Gramedia.  Currently, Gramedia operates more than 120 retail stores in 53 cities throughout Indonesia.  Apart from that, Gramedia is also expanding its business online.  This research aims to develop an inventory management information system that can help Gramedia Bookstore manage stock efficiently and enchacing customer service.  The methods used include system requirements analysis, system design, and technology implementation.  The system design will integrate inventory management with the online sales platform to ensure real-time and integrated stock management.  The expected outcomes of this research is the development of an information system that enhances stock management efficiency, optimizes ordering and delivery process, and improves customer experience. It is hoped that the implementation of this information system can make a positive contribution to the operational performance and development strategy of the Gramedia Bookstore in the future._
 
 _**Keywords**: Gramedia Bookstore, Inventory Management Information System, System Design, Stock Efficiency, Customer Service_.
+
+---
+
+---
+
+## 1. PENDAHULUAN
+
+Dalam era digital yang berkembang pesat ini, manajemen inventaris telah menjadi aspek kritis dalam keberhasilan operasional dan keberlanjutan bisnis, terutama dalam industri ritel. Toko buku merupakan salah satu sektor yang menghadapi tantangan unik dalam mengelola inventaris karena perubahan cepat dalam tren pembelian buku dan kebutuhan untuk menjaga ketersediaan stok yang relevan untuk memenuhi permintaan pelanggan.
+
+Dalam konteks ini, pengembangan sistem informasi manajemen inventaris menjadi penting sebagai solusi untuk meningkatkan efisiensi operasional, mengoptimalkan stok pelayanan, dan mengurangi kerugian akibat ketidaksesuaian stok. Dengan memanfaatkan teknologi informasi, toko buku dapat meningkatkan visibilitas terhadap inventaris mereka, mempercepat proses pengelolaan stok, dan merespons dengan cepat terhadap perubahan permintaan pasar.
+
+Studi kasus yang diambil dalam jurnal ini adalah toko buku Gramedia, sebuah rantai toko buku terkemuka di Indonesia. Gramedia dihadapkan pada tantangan dalam mengelola inventaris yang luas dan beragam, serta memastikan ketersediaan stok yang optimal untuk memenuhi kebutuhan pelanggan yang beragam. Dengan fokus pada pengembangan sistem informasi manajemen inventaris, penelitian ini bertujuan untuk mengidentifikasi kebutuhan spesifik Gramedia dalam manajemen stok dan merancang solusi yang tepat guna untuk meningkatkan efisiensi operasional serta kepuasan pelanggan
+
+Melalui pendekatan interdisipliner yang menggabungkan pengetahuan dalam bidang manajemen bisnis dan teknologi informasi, penelitian ini diharapkan dapat memberikan wawasan yang berharga bagi praktisi industri ritel, peneliti, dan pengembang sistem informasi untuk memahami tantangan dan peluang dalam mengembangkan sistem informasi manajemen inventaris yang efektif dan berkelanjutan.
+
+---
+
+---
+
+## 2. METODE PENELITIAN
+
+Metode penelitian pada dasarnya merupakan cara ilmiah untuk mendapatkan data dengan tujuan dan kegunaan tertentu. Untuk mencapai tujuan tersebut, diperlukan suatu metode yang relevan dengan tujuan yang ingin dicapai. Kerangka kerja ini merupakan langkah-langkah yang akan dilakukan dalam menyelesaikan masalah yang akan dibahas agar penelitian dapat berjalan dengan baik. Dengan memahami dan menerapkan metodologi penelitian yang tepat, peneliti di bidang sistem informasi Gramedia dapat menghasilkan penelitian yang relevan, bermanfaat, dan dapat dipertanggungjawabkan. Hasil penelitian ini akan membantu meningkatkan pemahaman tentang sistem informasi dan memberikan kontribusi positif bagi organisasi. 
+
+Penelitian ini menggunakan metode kuantitatif dimana pada penelitian ini digunakan hipotesis atau teori dari model SDLC tradisional yang diterapkan pada analisis ini. Teknik pengumpulan data yang digunakan dalam penelitian ini yaitu berupa pencarian materi yang sudah ada. 
+
+Software Development Life Cycle (SDLC) adalah kerangka kerja yang penting dalam pengembangan sistem informasi, termasuk di perusahaan seperti Gramedia. SDLC membantu dalam merencanakan, mengembangkan, merancang, mengimplementasikan, menganalisis, dan memelihara unit sistem informasi dengan efektif. Dalam konteks Gramedia, SDLC dapat dimulai dengan identifikasi kebutuhan bisnis dan pengguna, yang kemudian diikuti oleh perencanaan strategis untuk memenuhi kebutuhan tersebut. Tahap selanjutnya meliputi desain sistem yang melibatkan pemilihan teknologi dan arsitektur yang sesuai, serta pemodelan menggunakan UML untuk memvisualisasikan dan mendokumentasikan desain sistem.
+
+Dalam praktiknya, Gramedia mungkin menggunakan pendekatan Agile untuk pengembangan sistem informasi, yang memungkinkan adaptasi cepat terhadap perubahan dan iterasi yang lebih sering. Pendekatan ini juga melibatkan kolaborasi yang erat antara pengembang, analis, dan pengguna akhir untuk memastikan bahwa produk akhir memenuhi ekspektasi dan dapat berkembang seiring waktu. Dengan mengadopsi SDLC yang efektif, Gramedia dapat memastikan bahwa sistem informasi yang dikembangkan tidak hanya mendukung operasi bisnis saat ini tetapi juga fleksibel untuk beradaptasi dengan perubahan kebutuhan di masa depan.
+
+1.	 Pengumpulan data
+Kerangka kerja ini dimulai dari pengumpulan data, yang terdiri dari penelitian perpustakaan (Library Research)
+a.	Penelitian Perpustakaan (Library Research)
+Penelitian ini dilakukan untuk melengkapi perbendaharaan konsep, teori dan pendukung lainnya, di mana perbendaharaan tersebut disintesakan sedemikian rupa sehingga menjadi suatu yang mempunyai landasan dan keilmuan yang tepat, selain itu penelitian ini juga melakukan penelitian pada beberapa materi yang sudah ada, baik itu buku-buku, jurnal-jurnal, majalah-majalah, dan beberapa artikel yang ada hubungannya dengan penelitian ini.
+2.	Analisis Permasalahan
+Pada analisis permasalahan ini, dilakukan analisis masalah yang timbul dan diharapkan dapat ditemukan solusi dari permasalahan-permasalahan yang ada di dalam perancangan sistem informasi penggajian ini, sehingga dari penemuan permasalahan tersebut penulis akan mencoba untuk mencari jalan keluar dari permasalahan.
+3.	 Analisis Kebutuhan
+Setelah melakukan analisis permasalahan, dilanjutkan dengan analisis kebutuhan (Requirement Analysis). Adapun instrumen yang digunakan sebagai bahan untuk menganalisa kebutuhan sistem adalah dengan melakukan observasi, studi literatur dari sumber-sumber yang dapat dipercaya dan dalam pembuatan program sistem informasi ini yang sudah ini dibutuhkan perangkat keras (Hardware), perangkat lunak (Software) dan perangkat operator (Brainware). 
+4.	 Analisis Sistem
+Sebelum melakukan perancangan sistem informasi kita harus melakukan analisis sistem terlebih dahulu, supaya sistem yang kita rancang dapat dibuat sesuai dengan yang diharapkan.
+5.	 Perancangan Sistem
+Pada tahap perancangan, penulis menuangkan hasil rancangan ke dalam bentuk Data Flow Diagram (DFD), yaitu membuat desain aliran kerja manajemen dan desain pemrograman yang diperlukan untuk pengembangan sistem informasi ini. Dan juga Entity Relationship Diagram (ERD) yang digunakan untuk mempresentasikan, menentukan dan mendokumentasikan kebutuhan-kebutuhan untuk sistem pemrosesan database. Pada tahap ini juga membahas tentang perancangan sistem dengan menentukan rancangan yang akan diperlukan di dalam membuat sistem informasi ini.
+
+---
+
+---
+
+## 3. HASIL DAN PEMBAHASAN
+
+---
+
+---
+
+## 4. KESIMPULAN
 
 ---
 
