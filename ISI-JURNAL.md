@@ -51,15 +51,15 @@ Dalam praktiknya, Gramedia mungkin menggunakan pendekatan Agile untuk pengembang
 
 1.	 Pengumpulan data  
 Kerangka kerja ini dimulai dari pengumpulan data, yang terdiri dari penelitian perpustakaan (Library Research).  
-a. Penelitian Perpustakaan (Library Research)
+a. Penelitian Perpustakaan (Library Research)  
 Penelitian ini dilakukan untuk melengkapi perbendaharaan konsep, teori dan pendukung lainnya, di mana perbendaharaan tersebut disintesakan sedemikian rupa sehingga menjadi suatu yang mempunyai landasan dan keilmuan yang tepat, selain itu penelitian ini juga melakukan penelitian pada beberapa materi yang sudah ada, baik itu buku-buku, jurnal-jurnal, majalah-majalah, dan beberapa artikel yang ada hubungannya dengan penelitian ini.
-2.	Analisis Permasalahan
+2.	Analisis Permasalahan  
 Pada analisis permasalahan ini, dilakukan analisis masalah yang timbul dan diharapkan dapat ditemukan solusi dari permasalahan-permasalahan yang ada di dalam perancangan sistem informasi penggajian ini, sehingga dari penemuan permasalahan tersebut penulis akan mencoba untuk mencari jalan keluar dari permasalahan.
-3.	 Analisis Kebutuhan
+3.	 Analisis Kebutuhan  
 Setelah melakukan analisis permasalahan, dilanjutkan dengan analisis kebutuhan (Requirement Analysis). Adapun instrumen yang digunakan sebagai bahan untuk menganalisa kebutuhan sistem adalah dengan melakukan observasi, studi literatur dari sumber-sumber yang dapat dipercaya dan dalam pembuatan program sistem informasi ini yang sudah ini dibutuhkan perangkat keras (Hardware), perangkat lunak (Software) dan perangkat operator (Brainware). 
-4.	 Analisis Sistem
+4.	 Analisis Sistem  
 Sebelum melakukan perancangan sistem informasi kita harus melakukan analisis sistem terlebih dahulu, supaya sistem yang kita rancang dapat dibuat sesuai dengan yang diharapkan.
-5.	 Perancangan Sistem
+5.	 Perancangan Sistem  
 Pada tahap perancangan, penulis menuangkan hasil rancangan ke dalam bentuk Data Flow Diagram (DFD), yaitu membuat desain aliran kerja manajemen dan desain pemrograman yang diperlukan untuk pengembangan sistem informasi ini. Dan juga Entity Relationship Diagram (ERD) yang digunakan untuk mempresentasikan, menentukan dan mendokumentasikan kebutuhan-kebutuhan untuk sistem pemrosesan database. Pada tahap ini juga membahas tentang perancangan sistem dengan menentukan rancangan yang akan diperlukan di dalam membuat sistem informasi ini.
 
 ---
@@ -80,44 +80,44 @@ Pada tahap perancangan, penulis menuangkan hasil rancangan ke dalam bentuk Data 
 
 ## 5. DAFTAR PUSTAKA
 
-[1] Satrio Agung Wicaksono, dan Welly Purnomo. (2020). Pengembangan Sistem Informasi Manajemen Barang (Studi Pada Toko Kertas MBC).
-Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer, 2548-964X.
+[1] Satrio Agung Wicaksono, dan Welly Purnomo. (2020). Pengembangan Sistem Informasi Manajemen Barang (Studi Pada Toko Kertas MBC).  
+Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer, 2548-964X.  
 https://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/7614
 
-[2] Angga Debby Frayudha, dan Siti Purwanti. (2020). Optimalisasi Media Penyimpanan pada Sistem Inventori Stok Barang untuk PT. Multi Usaha Sejahtera Jaya menggunakan Metode Goldbach Codes.
-Elinvo Electronics, Informatics, and Vocational Education, 2477-2399.
+[2] Angga Debby Frayudha, dan Siti Purwanti. (2020). Optimalisasi Media Penyimpanan pada Sistem Inventori Stok Barang untuk PT. Multi Usaha Sejahtera Jaya menggunakan Metode Goldbach Codes.  
+Elinvo Electronics, Informatics, and Vocational Education, 2477-2399.  
 https://journal.uny.ac.id/index.php/elinvo/article/view/31298
 
-[3] Dessy Nur Azizah, dan N Nurgiyatna. (2021). Pengembangan Sistem Inventory Barang Perusahaan Dagang berbasis Website (Studi Kasus: CV. Agung Nugraha).
-Jurnal Teknik Elektro, 2541-4518.
+[3] Dessy Nur Azizah, dan N Nurgiyatna. (2021). Pengembangan Sistem Inventory Barang Perusahaan Dagang berbasis Website (Studi Kasus: CV. Agung Nugraha).  
+Jurnal Teknik Elektro, 2541-4518.  
 https://journals.ums.ac.id/index.php/emitor/article/view/13418
 
-[4] Ahmad Fathur Rahman, Achmad Arwan, dan Denny Sagita Rusdianto. (2021). Pengembangan Sistem Manajemen Penjualan Toko Buku berbasis Website menggunakan Payment Gateway (Studi Kasus: Literasi Nusantara).
-Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer, 2548-964X.
+[4] Ahmad Fathur Rahman, Achmad Arwan, dan Denny Sagita Rusdianto. (2021). Pengembangan Sistem Manajemen Penjualan Toko Buku berbasis Website menggunakan Payment Gateway (Studi Kasus: Literasi Nusantara).  
+Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer, 2548-964X.  
 https://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/8678
 
-[5] Hendra, Awan, Albert Suwandhi, Jati Putra, dan Sugianto Sugianto. (2021). Perancangan Sistem Informasi Inventaris Barang Pada PT. Digtara Berbasis Web.
-Jurnal Ilmiah CORE IT, 2548-3528.
+[5] Hendra, Awan, Albert Suwandhi, Jati Putra, dan Sugianto Sugianto. (2021). Perancangan Sistem Informasi Inventaris Barang Pada PT. Digtara Berbasis Web.  
+Jurnal Ilmiah CORE IT, 2548-3528.  
 https://www.ijcoreit.org/index.php/coreit/article/view/288
 
-[6] Melda Agnes Manuhutu. (2022). Perancangan Sistem Informasi Inventaris Barang Pada Hotel City View Sorong.
-Jurnal Electro Luceat (JEC), 2597-4467.
+[6] Melda Agnes Manuhutu. (2022). Perancangan Sistem Informasi Inventaris Barang Pada Hotel City View Sorong.  
+Jurnal Electro Luceat (JEC), 2597-4467.  
 https://www.poltekstpaul.ac.id/jurnal/index.php/jelekn/article/view/521
 
-[7] Agus Dian Herianto, Ketut Widya Kayohana, dan La Ode Abdul Wahid. (2023). Pengembangan Sistem Informasi Manajemen Inventory Barang Pada Distro ARJ88 Dengan Metode Pengembangan Sistem Waterfall.
-Journal of Millenial Informatics, xxxx-xxxx.
+[7] Agus Dian Herianto, Ketut Widya Kayohana, dan La Ode Abdul Wahid. (2023). Pengembangan Sistem Informasi Manajemen Inventory Barang Pada Distro ARJ88 Dengan Metode Pengembangan Sistem Waterfall.  
+Journal of Millenial Informatics, xxxx-xxxx.  
 https://journal.mudaberkarya.id/index.php/JoMI/article/view/45
 
-[8] Fahrul Razi. (2023). Sistem Informasi Inventory Penjualan Barang (Studi Kasus : Toko Aru Raya).
-Jurnal Sistem Informasi, 2797-8516.
+[8] Fahrul Razi. (2023). Sistem Informasi Inventory Penjualan Barang (Studi Kasus : Toko Aru Raya).  
+Jurnal Sistem Informasi, 2797-8516.  
 https://www.ojs.itb-ad.ac.id/index.php/JUSIN/article/view/2073
 
-[9] Maulana Afdhan Akbar. (2023). Perancangan Sistem Informasi Inventory Stok Barang Gudang pada Toko Percetakan UD. Eka Taruna.
-Seminar Nasional Teknologi Informasi dan Komunikasi, 2685-5615.
+[9] Maulana Afdhan Akbar. (2023). Perancangan Sistem Informasi Inventory Stok Barang Gudang pada Toko Percetakan UD. Eka Taruna.  
+Seminar Nasional Teknologi Informasi dan Komunikasi, 2685-5615.  
 http://prosiding.unipma.ac.id/index.php/SENATIK/article/view/4418 
 
-[10] Eva Rosanti, dan Agus Bahtiar. (2023). Aplikasi Pengelolaan Inventory Stok Barang Berbasis Web Pada Toko Fathaniers.
-Jurnal Mahasiswa Teknik Informatika S1, 2598-828X.
+[10] Eva Rosanti, dan Agus Bahtiar. (2023). Aplikasi Pengelolaan Inventory Stok Barang Berbasis Web Pada Toko Fathaniers.  
+Jurnal Mahasiswa Teknik Informatika S1, 2598-828X.  
 https://ejournal.itn.ac.id/index.php/jati/article/view/6443
 
 ---
