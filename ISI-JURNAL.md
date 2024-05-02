@@ -50,8 +50,8 @@ Dalam praktiknya, Gramedia mungkin menggunakan pendekatan Agile untuk pengembang
 ![metode](https://github.com/girisejatinugraha/Tugas-Perancangan-Sistem-Informasi/assets/136765265/55be9e99-bf26-4dfe-a65f-937e4c0fc8d4)
 
 1.	 Pengumpulan data
-Kerangka kerja ini dimulai dari pengumpulan data, yang terdiri dari penelitian perpustakaan (Library Research)
-a.	Penelitian Perpustakaan (Library Research)
+Kerangka kerja ini dimulai dari pengumpulan data, yang terdiri dari penelitian perpustakaan (Library Research).
+a. Penelitian Perpustakaan (Library Research)
 Penelitian ini dilakukan untuk melengkapi perbendaharaan konsep, teori dan pendukung lainnya, di mana perbendaharaan tersebut disintesakan sedemikian rupa sehingga menjadi suatu yang mempunyai landasan dan keilmuan yang tepat, selain itu penelitian ini juga melakukan penelitian pada beberapa materi yang sudah ada, baik itu buku-buku, jurnal-jurnal, majalah-majalah, dan beberapa artikel yang ada hubungannya dengan penelitian ini.
 2.	Analisis Permasalahan
 Pada analisis permasalahan ini, dilakukan analisis masalah yang timbul dan diharapkan dapat ditemukan solusi dari permasalahan-permasalahan yang ada di dalam perancangan sistem informasi penggajian ini, sehingga dari penemuan permasalahan tersebut penulis akan mencoba untuk mencari jalan keluar dari permasalahan.
