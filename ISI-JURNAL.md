@@ -107,6 +107,20 @@ Diagram kelas adalah alat pemodelan yang digunakan dalam rekayasa perangkat luna
 
 ## 4. KESIMPULAN
 
+Dalam penelitian ini, telah dilakukan pengembangan sistem informasi manajemen inventaris untuk 
+Toko Buku Gramedia dengan tujuan untuk mengoptimalkan stok dan pelayanan. Metode penelitian 
+yang digunakan meliputi analisis kebutuhan, perancangan sistem, implementasi, dan evaluasi. Hasil 
+dari implementasi sistem ini menunjukkan peningkatan efisiensi dalam manajemen stok dan 
+peningkatan dalam pelayanan kepada pelanggan.
+Dari hasil dan pembahasan yang telah disajikan, dapat disimpulkan bahwa pengembangan sistem 
+informasi manajemen inventaris membawa dampak positif bagi operasional Toko Buku Gramedia. 
+Sistem ini membantu dalam pemantauan stok secara real-time, pengelolaan pesanan, dan pemrosesan 
+transaksi dengan lebih efisien.
+Kesimpulan ini menekankan pentingnya penggunaan teknologi informasi dalam mendukung 
+operasional bisnis untuk mencapai tujuan efisiensi dan kualitas layanan yang lebih baik. Dengan 
+adanya sistem informasi manajemen inventaris yang terintegrasi, Toko Buku Gramedia dapat terus 
+mengembangkan strategi bisnisnya dan meningkatkan kepuasan pelanggan.
+
 ---
 
 ---
